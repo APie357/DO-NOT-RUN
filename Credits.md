@@ -13,3 +13,8 @@
 [itch.io](https://samperson.itch.io/typist)
 |
 [YouTube](https://www.youtube.com/watch?v=t_CY48mDr7s)
+
+### Andrew (Genius-Format)(Creator of repository):
+[YouTube](https://www.youtube.com/channel/UC6sEZoPQHnbmk5m_gRLYTCQ?)
+|
+[Github](https://github.com/genius-format)
